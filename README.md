@@ -3,7 +3,7 @@
 ```HTML,CSS,JAVASCRIPT```
 
 ## Netlify
-[click the link for deployed URL]()
+[click the link for deployed URL](https://randomquotes-task-12.netlify.app/)
 
 ### output for the task:
 
